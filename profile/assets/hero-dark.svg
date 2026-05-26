@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" preserveAspectRatio="xMidYMid meet" role="img" aria-label="AD REM. — Built Direct. Software and Consulting.">
+  <defs>
+    <pattern id="grid-dark" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#F5F2EC" stroke-width="1" opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" fill="#0A0A0A"/>
+  <rect x="700" y="0" width="500" height="400" fill="url(#grid-dark)"/>
+
+  <g font-family="Impact, 'Helvetica Neue Condensed', 'Arial Narrow', 'Bebas Neue', sans-serif">
+    <text x="80" y="78" fill="#C8372D" font-size="13" letter-spacing="6">BRAND · ESTD. 2026</text>
+
+    <text x="80" y="220" fill="#F5F2EC" font-size="148" letter-spacing="4">AD REM<tspan fill="#C8372D">.</tspan></text>
+
+    <line x1="80" y1="242" x2="128" y2="242" stroke="#C8372D" stroke-width="2"/>
+
+    <text x="80" y="282" fill="#C8372D" font-size="18" letter-spacing="6">YOUR PROBLEM. SOLVED.</text>
+
+    <text x="80" y="328" fill="#6B6560" font-size="11" letter-spacing="4">TO THE POINT. TO THE MATTER.</text>
+
+    <text x="1120" y="378" fill="#6B6560" font-size="10" letter-spacing="3" text-anchor="end">SOFTWARE &amp; CONSULTING</text>
+  </g>
+
+  <g transform="translate(950, 200)">
+    <rect x="-100" y="-100" width="200" height="200" stroke="#C8372D" stroke-width="1" fill="none" opacity="0.5" transform="rotate(45)"/>
+    <rect x="-70" y="-70" width="140" height="140" stroke="#F5F2EC" stroke-width="0.75" fill="none" opacity="0.2"/>
+
+    <line x1="0" y1="-140" x2="0" y2="140" stroke="#C8372D" stroke-width="0.5" opacity="0.3"/>
+    <line x1="-140" y1="0" x2="140" y2="0" stroke="#C8372D" stroke-width="0.5" opacity="0.3"/>
+
+    <circle cx="0" cy="0" r="100" stroke="#F5F2EC" stroke-width="0.75" fill="none" opacity="0.12"/>
+    <circle cx="0" cy="0" r="60" stroke="#C8372D" stroke-width="1" fill="none" opacity="0.4"/>
+    <circle cx="0" cy="0" r="6" fill="#C8372D" opacity="0.9"/>
+
+    <circle cx="-70" cy="-70" r="3" fill="#F5F2EC" opacity="0.3"/>
+    <circle cx="70" cy="-70" r="3" fill="#F5F2EC" opacity="0.3"/>
+    <circle cx="-70" cy="70" r="3" fill="#F5F2EC" opacity="0.3"/>
+    <circle cx="70" cy="70" r="3" fill="#F5F2EC" opacity="0.3"/>
+
+    <line x1="0" y1="-130" x2="0" y2="-118" stroke="#C8372D" stroke-width="1.5" opacity="0.7"/>
+    <line x1="0" y1="118" x2="0" y2="130" stroke="#C8372D" stroke-width="1.5" opacity="0.7"/>
+    <line x1="-130" y1="0" x2="-118" y2="0" stroke="#C8372D" stroke-width="1.5" opacity="0.7"/>
+    <line x1="118" y1="0" x2="130" y2="0" stroke="#C8372D" stroke-width="1.5" opacity="0.7"/>
+
+    <line x1="0" y1="0" x2="-70" y2="-70" stroke="#F5F2EC" stroke-width="0.4" opacity="0.15"/>
+    <line x1="0" y1="0" x2="70" y2="-70" stroke="#F5F2EC" stroke-width="0.4" opacity="0.15"/>
+    <line x1="0" y1="0" x2="-70" y2="70" stroke="#F5F2EC" stroke-width="0.4" opacity="0.15"/>
+    <line x1="0" y1="0" x2="70" y2="70" stroke="#F5F2EC" stroke-width="0.4" opacity="0.15"/>
+  </g>
+</svg>
